@@ -104,3 +104,7 @@ Suggestions & Feedback: I'd be happy to use your feedback to improve this projec
 لایسنس / License:
 این پروژه متن‌باز است و می‌توانید آزادانه از آن استفاده کنید.
 This is an open-source project and you can freely use it.
+<img width="1690" height="876" alt="api" src="https://github.com/user-attachments/assets/aca09b04-ddc0-44c0-827e-eb41cb146f04" />
+<img width="1874" height="903" alt="dashboard" src="https://github.com/user-attachments/assets/6851edd8-8f8c-4ef4-89dc-ec4d393e013d" />
+<img width="1780" height="919" alt="detail" src="https://github.com/user-attachments/assets/63338902-fc19-42a1-ac26-22f4e042bb5b" />
+<img width="1849" height="802" alt="home" src="https://github.com/user-attachments/assets/14d7b92c-13ef-408a-ae4e-8c6f2faaf47b" />
