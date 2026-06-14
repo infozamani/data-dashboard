@@ -67,6 +67,11 @@ API Documentation: http://127.0.0.1:8000/api-setup/
 
 Use Cases:
 Data Analysts: Store and manage multiple Excel datasets
+<img width="1849" height="802" alt="home" src="https://github.com/user-attachments/assets/e14dc7f5-1428-41cb-b03d-7e9899d70a08" />
+<img width="1780" height="919" alt="detail" src="https://github.com/user-attachments/assets/438f090d-2984-4022-899d-8c7e71596271" />
+<img width="1690" height="876" alt="api" src="https://github.com/user-attachments/assets/dae52b5e-7014-45b9-b56e-088f88f41f87" />
+
+
 
 Organizations: Centralized data storage system
 
